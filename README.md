@@ -1,16 +1,13 @@
-## Hi there 👋
+👨‍💻 Cybersecurity Analyst | Application Security Specialist
+🔒 Passionate about safeguarding applications and protecting sensitive data.
+💻 Experienced in identifying vulnerabilities, conducting penetration testing, and implementing secure development practices (DevSecOps).
+📊 Skilled in threat modeling, vulnerability management, and compliance frameworks like OWASP, NIST, and ISO 27001.
+🛠️ Tech Stack: Burp Suite,Microfocus webinspect, and secure coding in Python, Java, and JavaScript.
+🎯 Focus Areas: Web application security, API security, and cloud security assessments.
+🚀 Dedicated to building secure and resilient systems.
 
-<!--
-**saideep1111/saideep1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Let’s connect to secure the digital world!
+📩 [bomidisaideep@gmail.com]
+📂 Explore my repositories to see tools, scripts, and guides for application security.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
