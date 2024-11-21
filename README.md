@@ -8,7 +8,7 @@
 
 🛠️ Tech Stack: Burp Suite,Microfocus webinspect, and secure coding in Python, Java, and JavaScript.
 
-🎯 Focus Areas: Web application security, API security, and cloud security assessments.
+🎯 Focus Areas: Web application security, API security.
 
 🚀 Dedicated to building secure and resilient systems.
 
