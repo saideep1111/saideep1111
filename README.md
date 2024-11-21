@@ -1,4 +1,7 @@
-👨‍💻 Application Security Analyst
+
+👨‍💻 Master’s student at the University of Missouri-Kansas City 
+
+💼 Experience : Worked as an Application security Analyst in HCL for 1.5 yrs.
 
 🔒 Passionate about safeguarding applications and protecting sensitive data.
 
