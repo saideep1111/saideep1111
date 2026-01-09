@@ -17,7 +17,7 @@
 
 🌟 Let’s connect to secure the digital world!
 
-📩 [bomidisaideep@gmail.com]
+📩 [lakshmisaideep2000@gmail.com]
 
 📂 Explore my repositories to see tools, scripts, and guides for application security.
 
